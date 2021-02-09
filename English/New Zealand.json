@@ -3,7 +3,7 @@
     {
       "Key": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71",
       "Group": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc",
-      "Name": "GST payable"
+      "Name": "VAT payable"
     }
   ],
   "38cf4712-6e95-4ce1-b53a-bff03edad273": [
@@ -13,7 +13,7 @@
       "CustomFields": {
         "0c782b45-f50c-4b69-bbf3-75f42d7670a7": "342423243243324"
       },
-      "Name": "New Zealand"
+      "Name": "Bangladesh"
     }
   ],
   "dcb382dc-a4e0-4354-a845-b7d647f610f7": [
